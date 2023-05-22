@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>335885553839-6cg8d3h8eiid84hv5ldkjbl4efdl6jq9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.335885553839-6cg8d3h8eiid84hv5ldkjbl4efdl6jq9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDJbOXaQA6sZKBnswVZvOib2eP_fH_66xE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>335885553839</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nasevich.bloodmoon</string>
+	<key>PROJECT_ID</key>
+	<string>diplom-auth-37032</string>
+	<key>STORAGE_BUCKET</key>
+	<string>diplom-auth-37032.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:335885553839:ios:2b27bf72b54643d3d1845a</string>
+</dict>
+</plist>
